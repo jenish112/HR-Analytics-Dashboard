@@ -1,14 +1,44 @@
-# HR Analytics Dashboard
+# HR Analytics Dashboard | Power BI
 
-## Introduction
+<p align="center" width="100%"> 
+  <img src='https://github.com/jenish112/HR-Analytics-Dashboard-for-ATLIQ/blob/main/HR%20Analytics%20Dashboard.png' width='700'/>
+</p>
 
-Welcome to the **HR Analytics Dashboard** project, an implemented comprehensive HR Analytics project for ATLIQ using Power BI. This initiative involved gathering and analyzing diverse HR data sets to derive valuable insights for strategic decision-making. The project focused on key areas such as employee performance, retention, and talent acquisition. Utilizing Power BI's robust visualization capabilities, the project delivered intuitive dashboards and reports, providing ATLIQ's leadership with actionable insights into workforce trends, and enabling informed decision-making for enhanced organizational performance and employee satisfaction.
+# Overview
 
-## Key Insights:
-* Developed and implemented a robust employee attendance dashboard leveraging Power BI, resulting in a 20% reduction in absenteeism and a 15% increase in overall productivity within the organization. 
-* Skills Used: Data modeling, DAX calculations, data visualization. 
-* Enhanced HR decision-making, resulting in a 10% reduction in absenteeism and improved workforce management. 
-* Results: Achieved a 10% reduction in absenteeism, leading to increased productivity and cost savings for AtliQ.
+This project demonstrates an end-to-end HR analytics workflow focused on employee attendance behavior. The dashboard analyzes presence %, work-from-home (WFH) %, and sick leave (SL) trends across employees, dates, and days of the week. The goal is to enable HR teams to quickly identify attendance patterns, operational risks, and workforce planning signals through interactive reporting.
+
+The solution was built using Power BI and Excel, with emphasis on clean data modeling, accurate DAX measures, and clear KPI-driven visual design.
+
+## What This Dashboard Covers
+
+- **Employee-level attendance tracking (Present, WFH, Sick Leave)**
+- **Time-series analysis of attendance trends**
+- **Day-of-week behavior patterns**
+- **Summary KPIs for leadership-level visibility**
+- **Drill-down tables for operational review**
+
+## Key Insights & Capabilities
+
+- **Built a fully automated attendance analytics dashboard using Power BI and Excel, transforming raw attendance logs into structured, analysis-ready datasets.**
+- **Designed a normalized data model with calculated measures using DAX to accurately track presence %, WFH %, and sick leave rates over time.**
+- **Created executive-friendly KPIs and trend visuals to highlight attendance fluctuations, weekday patterns, and potential workforce risks.**
+- **Enabled faster HR analysis by consolidating multiple attendance views into a single, interactive reporting layer.**
+
+## Tools & Skills Used
+
+- **Power BI (Data modeling, DAX, interactive dashboards)**
+- **Excel (Data cleaning, preprocessing, validation)**
+- **Analytics & Visualization Design**
+- **Business KPI Definition**
+
+## Why This Project Matters
+
+This project reflects real-world HR analytics use cases where visibility, accuracy, and interpretability matter more than flashy visuals. It demonstrates the ability to:
+
+- **Translate raw operational data into decision-ready insights**
+- **Build scalable BI models that support HR and management workflows**
+- **Communicate workforce trends clearly to non-technical stakeholders**
 
 ## Support
 
